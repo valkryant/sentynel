@@ -1,4 +1,4 @@
-local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/ltseverydayyou/Nameless-Admin/main/notifications"))();
+local AkaliNotif = loadstring(game:HttpGet("https://raw.githubusercontent.com/valkryant/sentynel/refs/heads/main/notifs.lua"))();
 local Notify = AkaliNotif.Notify;
 
 function toClipboard(String)
